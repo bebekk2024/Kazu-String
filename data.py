@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("sᴜᴩᴩᴏʀᴛ", url="https://t.me/kazusupportgrp"),
-         InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/disinikazu"),
+        [InlineKeyboardButton("sᴜᴩᴩᴏʀᴛ", url="https://t.me/Disney_storeDan"),
+         InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/mhmdwldnnnn"),
         ],
     ]
 
@@ -19,7 +19,7 @@ class Data:
 **This is** {},
 **Bot untuk Mengambil String Session!**
 
-**Made With 👑 By:** [ᴋᴀᴢᴜ](https://t.me/disinikazu)
+**Made With 👑 By:** [ᴅᴀɴ](https://t.me/mhmdwldnnnn)
 —
-**Group Support:** [ᴋᴀᴢᴜ sᴜᴘᴘᴏʀᴛ](https://t.me/kazusupportgrp)
+**Group Support:** [ᴅᴀɴ sᴜᴘᴘᴏʀᴛ](https://t.me/Disney_storeDan)
     """
